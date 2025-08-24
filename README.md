@@ -1,2 +1,3 @@
 # localRepo
 second repository in order to check the things like add,commit,push.this is a new repo .
+git add
